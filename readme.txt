@@ -16,8 +16,4 @@ User
 Username: some@gmail.com
 Password: some
 
-kofibiney@gmail.com
-Badboyis20
 
-ammadansoah@gmail.com
-Badboyis20
